@@ -19,7 +19,7 @@ namespace HomeApplianceMaintenanceSystem
             private string brand;        // Brand
             private bool isRepaired;     // Repair status
 
-            // Properties to control data access
+            
 
 
             // Abstract method that every subclass must implement in its own way
